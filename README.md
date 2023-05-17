@@ -7,8 +7,8 @@ Power BI Dashboard: Provides a visually appealing and interactive Power BI dashb
 
 Actionable Insights: Extracts actionable insights from the data to optimize the hotel booking process, increase revenue, and enhance overall project performance.
 # Technologies Used
-1)Python
-2)Pandas
-3)Power BI]
+1) Python
+2) Pandas
+3) Power BI
 
 ![Screenshot](screenshot 2.png)
