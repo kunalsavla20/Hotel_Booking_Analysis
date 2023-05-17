@@ -11,4 +11,4 @@ Actionable Insights: Extracts actionable insights from the data to optimize the 
 2) Pandas
 3) Power BI
 
-![Screenshot](screenshot 2.png)
+![Screenshot](Screenshot 2.png)
