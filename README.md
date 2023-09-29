@@ -23,12 +23,6 @@ The objective of this project is to analyze hotel booking data and extract actio
 
 By following these data preprocessing steps, we ensured that our data was ready for analysis, visualization, and modeling. Clean and well-structured data is the foundation of any successful data analysis project, and it allows us to derive meaningful insights and make informed decisions.
 
-![Screenshot](Screenshot11.PNG)
-
-
-
-
-
 
 # Data Exploration and Analysis
 
@@ -46,6 +40,8 @@ We calculated basic descriptive statistics such as mean, median, standard deviat
 3. Data Visualization:
 To visualize the data, we created various plots and charts using libraries like Matplotlib and Seaborn. Our visualizations included:
 Box Plots: to explore data distributions and identify outliers.
+
+![Screenshot](Screenshot11.PNG)
 
 # Key Features
 Efficient Data Manipulation: Utilizes Python's Pandas library for efficient data manipulation, allowing for seamless processing and analysis of hotel booking data.
