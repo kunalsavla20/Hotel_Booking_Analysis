@@ -41,6 +41,10 @@ We calculated basic descriptive statistics such as mean, median, standard deviat
 
 ![Screenshot](Screenshot15.PNG)
 
+3. Data Visualization:
+To visualize the data, we created various plots and charts using libraries like Matplotlib and Seaborn. Our visualizations included:
+Box Plots: to explore data distributions and identify outliers.
+
 # Key Features
 Efficient Data Manipulation: Utilizes Python's Pandas library for efficient data manipulation, allowing for seamless processing and analysis of hotel booking data.
 Power BI Dashboard: Provides a visually appealing and interactive Power BI dashboard that showcases key performance indicators (KPIs) relevant to the hotel booking process. The dashboard allows stakeholders to monitor and gain insights into the hotel's performance.
