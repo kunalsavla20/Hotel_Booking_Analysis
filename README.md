@@ -28,8 +28,11 @@ By following these data preprocessing steps, we ensured that our data was ready 
 
 
 
-# Methodology
-The methodology for this project involves using Python's Pandas library for data manipulation and analysis. I have utilize Power BI to create a dashboard that visualizes key performance indicators (KPIs) related to hotel bookings.
+# Data Exploration and Analysis
+
+In this project, we conducted a comprehensive data exploration and analysis to uncover valuable insights from our hotel booking dataset. Data exploration is a crucial phase in the data analysis process, where we dive into the data to understand its characteristics, relationships, and patterns. Below, we highlight the key steps and findings from our data exploration and analysis:
+1. Data Overview
+We began by gaining a high-level understanding of our dataset, including the number of records, features, and data types. This allowed us to assess the scope and complexity of our analysis.
 
 # Key Features
 Efficient Data Manipulation: Utilizes Python's Pandas library for efficient data manipulation, allowing for seamless processing and analysis of hotel booking data.
