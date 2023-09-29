@@ -5,6 +5,11 @@ This project is a hotel booking system developed using Python's Pandas library f
 # Objective
 The objective of this project is to analyze hotel booking data and extract actionable insights to optimize the hotel booking process.
 
+# Data Preprocessing
+In this project, we conducted extensive data preprocessing to ensure the quality and integrity of our hotel booking dataset. Data preprocessing is a crucial step in any data analysis project as it helps us clean, organize, and structure the data for effective analysis and modeling. Below, we outline the key data preprocessing steps performed:
+Data Loading: We started by loading the raw data into our Python environment using libraries like pandas. This step allowed us to access and manipulate the data for further processing.
+
+
 # Methodology
 The methodology for this project involves using Python's Pandas library for data manipulation and analysis. I have utilize Power BI to create a dashboard that visualizes key performance indicators (KPIs) related to hotel bookings.
 
