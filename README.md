@@ -10,6 +10,8 @@ The objective of this project is to analyze hotel booking data and extract actio
 1. Data Loading: We started by loading the raw data into our Python environment using libraries like pandas. This step allowed us to access and manipulate the data for further processing.
 ![Screenshot](Screenshot1.PNG)
 2. Handling Missing Values: We identified and addressed missing values in the dataset. This included strategies such as imputation (filling missing values with meaningful data) or removal of rows/columns with excessive missing data, depending on the nature of the data and the analysis requirements.
+![Screenshot](Screenshot9.PNG)
+![Screenshot](Screenshot10.PNG)
 
 
 
