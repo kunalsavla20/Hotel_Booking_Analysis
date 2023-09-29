@@ -36,6 +36,9 @@ We began by gaining a high-level understanding of our dataset, including the num
 
 ![Screenshot](Screenshot5.PNG)
 
+2. Descriptive Statistics:
+We calculated basic descriptive statistics such as mean, median, standard deviation, and percentiles for numeric features. This provided us with a summary of central tendencies and variability in the data.
+
 # Key Features
 Efficient Data Manipulation: Utilizes Python's Pandas library for efficient data manipulation, allowing for seamless processing and analysis of hotel booking data.
 Power BI Dashboard: Provides a visually appealing and interactive Power BI dashboard that showcases key performance indicators (KPIs) relevant to the hotel booking process. The dashboard allows stakeholders to monitor and gain insights into the hotel's performance.
