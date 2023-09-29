@@ -60,7 +60,7 @@ Through this project, the following outcomes and impacts were achieved: Increase
 # Conclusion
 In conclusion, this project shows the successful utilization of Python's Pandas library and Power BI to analyze hotel booking data and extract actionable insights. These efforts resulted in increased revenue, enhanced customer experience, and improved project performance
 
-# Limitations and Challenges Summary:
+# Limitations and Challenges:
 1. Data quality issues, including missing data and outliers, required some preprocessing.
 2. Imbalanced data posed challenges for Analysis.
 3. The dataset's size may not fully represent the entire population.
