@@ -13,6 +13,7 @@ The objective of this project is to analyze hotel booking data and extract actio
 
 ![Screenshot](Screenshot9.PNG)
 ![Screenshot](Screenshot10.PNG)
+3. Data Cleaning: We cleaned the data by addressing any inconsistencies, outliers, or errors. This included standardizing data formats, correcting typos, and removing duplicate records to ensure data accuracy.
 
 
 
