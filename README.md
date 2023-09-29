@@ -9,6 +9,8 @@ The objective of this project is to analyze hotel booking data and extract actio
   In this project, we conducted extensive data preprocessing to ensure the quality and integrity of our hotel booking dataset. Data preprocessing is a crucial step in any data analysis project as it helps us clean, organize, and structure the data for effective analysis and modeling. Below, we outline the key data preprocessing steps performed:
 1. Data Loading: We started by loading the raw data into our Python environment using libraries like pandas. This step allowed us to access and manipulate the data for further processing.
 ![Screenshot](Screenshot1.PNG)
+2. Handling Missing Values: We identified and addressed missing values in the dataset. This included strategies such as imputation (filling missing values with meaningful data) or removal of rows/columns with excessive missing data, depending on the nature of the data and the analysis requirements.
+
 
 
 
