@@ -23,6 +23,8 @@ The objective of this project is to analyze hotel booking data and extract actio
 
 By following these data preprocessing steps, we ensured that our data was ready for analysis, visualization, and modeling. Clean and well-structured data is the foundation of any successful data analysis project, and it allows us to derive meaningful insights and make informed decisions.
 
+![Screenshot](Screenshot11.PNG)
+
 
 
 
