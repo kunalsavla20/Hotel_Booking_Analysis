@@ -19,6 +19,7 @@ The objective of this project is to analyze hotel booking data and extract actio
 ![Screenshot](Screenshot13.PNG)
 
 4. Data Saving: After preprocessing, we saved the cleaned and transformed data into a separate file or database for easy access in subsequent stages of the project.
+![Screenshot](Screenshot14.PNG)
 
 
 
