@@ -55,7 +55,7 @@ Through this project, the following outcomes and impacts were achieved: Increase
 2) Pandas
 3) Power BI
 
-![Screenshot 2](PNG_Files/Screenshot2.PNG)
+![Screenshot 2](PNG_Files/Screenshot2.png)
 
 # Conclusion
 In conclusion, this project shows the successful utilization of Python's Pandas library and Power BI to analyze hotel booking data and extract actionable insights. These efforts resulted in increased revenue, enhanced customer experience, and improved project performance
