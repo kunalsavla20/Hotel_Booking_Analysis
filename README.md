@@ -8,18 +8,18 @@ The objective of this project is to analyze hotel booking data and extract actio
 # Data Preprocessing
   In this project, we conducted extensive data preprocessing to ensure the quality and integrity of our hotel booking dataset. Data preprocessing is a crucial step in any data analysis project as it helps us clean, organize, and structure the data for effective analysis and modeling. Below, we outline the key data preprocessing steps performed:
 1. Data Loading: We started by loading the raw data into our Python environment using libraries like pandas. This step allowed us to access and manipulate the data for further processing.
-![Screenshot](Screenshot1.PNG)
+![Screenshot 1](PNG_Files/Screenshot1.PNG)
 2. Handling Missing Values: We identified and addressed missing values in the dataset. This included strategies such as imputation (filling missing values with meaningful data) or removal of rows/columns with excessive missing data, depending on the nature of the data and the analysis requirements.
 
-![Screenshot](Screenshot9.PNG)
-![Screenshot](Screenshot10.PNG)
+![Screenshot 9](PNG_Files/Screenshot9.PNG)
+![Screenshot 10](PNG_Files/Screenshot10.PNG)
 
 3. Data Cleaning: We cleaned the data by addressing any inconsistencies, outliers, or errors. This included standardizing data formats, correcting typos, and removing duplicate records to ensure data accuracy.
-![Screenshot](Screenshot4.PNG)
-![Screenshot](Screenshot13.PNG)
+![Screenshot 4](PNG_Files/Screenshot4.PNG)
+![Screenshot 13](PNG_Files/Screenshot13.PNG)
 
 4. Data Saving: After preprocessing, we saved the cleaned and transformed data into a separate file or database for easy access in subsequent stages of the project.
-![Screenshot](Screenshot14.PNG)
+![Screenshot 14](PNG_Files/Screenshot14.PNG)
 
 By following these data preprocessing steps, we ensured that our data was ready for analysis, visualization, and modeling. Clean and well-structured data is the foundation of any successful data analysis project, and it allows us to derive meaningful insights and make informed decisions.
 
@@ -30,18 +30,18 @@ In this project, we conducted a comprehensive data exploration and analysis to u
 1. Data Overview:
 We began by gaining a high-level understanding of our dataset, including the number of records, features, and data types. This allowed us to assess the scope and complexity of our analysis.
 
-![Screenshot](Screenshot5.PNG)
+![Screenshot 5](PNG_Files/Screenshot5.PNG)
 
 2. Descriptive Statistics:
 We calculated basic descriptive statistics such as mean, median, standard deviation, and percentiles for numeric features. This provided us with a summary of central tendencies and variability in the data.
 
-![Screenshot](Screenshot15.PNG)
+![Screenshot 15](PNG_Files/Screenshot15.PNG)
 
 3. Data Visualization:
 To visualize the data, we created various plots and charts using libraries like Matplotlib and Seaborn. Our visualizations included:
 Box Plots: to explore data distributions and identify outliers.
 
-![Screenshot](Screenshot11.PNG)
+![Screenshot 11](PNG_Files/Screenshot11.PNG)
 
 # Key Features
 1. Efficient Data Manipulation: Utilizes Python's Pandas library for efficient data manipulation, allowing for seamless processing and analysis of hotel booking data.
@@ -55,7 +55,7 @@ Through this project, the following outcomes and impacts were achieved: Increase
 2) Pandas
 3) Power BI
 
-![Screenshot](screenshot2.png)
+![Screenshot 2](PNG_Files/Screenshot2.PNG)
 
 # Conclusion
 In conclusion, this project shows the successful utilization of Python's Pandas library and Power BI to analyze hotel booking data and extract actionable insights. These efforts resulted in increased revenue, enhanced customer experience, and improved project performance
