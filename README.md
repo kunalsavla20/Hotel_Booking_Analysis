@@ -7,18 +7,18 @@ The objective of this project is to analyze hotel booking data and extract actio
 
 # Data Preprocessing
   In this project, we conducted extensive data preprocessing to ensure the quality and integrity of our hotel booking dataset. Data preprocessing is a crucial step in any data analysis project as it helps us clean, organize, and structure the data for effective analysis and modeling. Below, we outline the key data preprocessing steps performed:
-1. Data Loading: We started by loading the raw data into our Python environment using libraries like pandas. This step allowed us to access and manipulate the data for further processing.
+1. **Data Loading**: We started by loading the raw data into our Python environment using libraries like pandas. This step allowed us to access and manipulate the data for further processing.
 ![Screenshot 1](PNG_Files/Screenshot1.PNG)
-2. Handling Missing Values: We identified and addressed missing values in the dataset. This included strategies such as imputation (filling missing values with meaningful data) or removal of rows/columns with excessive missing data, depending on the nature of the data and the analysis requirements.
+2. **Handling Missing Values**: We identified and addressed missing values in the dataset. This included strategies such as imputation (filling missing values with meaningful data) or removal of rows/columns with excessive missing data, depending on the nature of the data and the analysis requirements.
 
 ![Screenshot 9](PNG_Files/Screenshot9.PNG)
 ![Screenshot 10](PNG_Files/Screenshot10.PNG)
 
-3. Data Cleaning: We cleaned the data by addressing any inconsistencies, outliers, or errors. This included standardizing data formats, correcting typos, and removing duplicate records to ensure data accuracy.
+3. **Data Cleaning**: We cleaned the data by addressing any inconsistencies, outliers, or errors. This included standardizing data formats, correcting typos, and removing duplicate records to ensure data accuracy.
 ![Screenshot 4](PNG_Files/Screenshot4.PNG)
 ![Screenshot 13](PNG_Files/Screenshot13.PNG)
 
-4. Data Saving: After preprocessing, we saved the cleaned and transformed data into a separate file or database for easy access in subsequent stages of the project.
+4. **Data Saving**: After preprocessing, we saved the cleaned and transformed data into a separate file or database for easy access in subsequent stages of the project.
 ![Screenshot 14](PNG_Files/Screenshot14.PNG)
 
 By following these data preprocessing steps, we ensured that our data was ready for analysis, visualization, and modeling. Clean and well-structured data is the foundation of any successful data analysis project, and it allows us to derive meaningful insights and make informed decisions.
