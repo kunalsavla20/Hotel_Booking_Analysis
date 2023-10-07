@@ -2,7 +2,7 @@
 # Project Overview
 This project is a hotel booking system developed using Python's Pandas library for efficient data manipulation. It aims to optimize the hotel booking process and drive business growth by extracting actionable insights and implementing data-driven solutions. The project also includes a Power BI dashboard that highlights key performance indicators (KPIs) to monitor and analyze the hotel's performance.
 
-# Objective
+# AIM Of The Project
 The objective of this project is to analyze hotel booking data and extract actionable insights to optimize the hotel booking process.
 
 # Data Preprocessing
