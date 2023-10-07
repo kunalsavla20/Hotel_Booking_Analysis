@@ -27,17 +27,17 @@ By following these data preprocessing steps, we ensured that our data was ready 
 # Data Exploration and Analysis
 
 In this project, we conducted a comprehensive data exploration and analysis to uncover valuable insights from our hotel booking dataset. Data exploration is a crucial phase in the data analysis process, where we dive into the data to understand its characteristics, relationships, and patterns. Below, we highlight the key steps and findings from our data exploration and analysis:
-1. Data Overview:
+1. **Data Overview**:
 We began by gaining a high-level understanding of our dataset, including the number of records, features, and data types. This allowed us to assess the scope and complexity of our analysis.
 
 ![Screenshot 5](PNG_Files/Screenshot5.PNG)
 
-2. Descriptive Statistics:
+2. **Descriptive Statistics**:
 We calculated basic descriptive statistics such as mean, median, standard deviation, and percentiles for numeric features. This provided us with a summary of central tendencies and variability in the data.
 
 ![Screenshot 15](PNG_Files/Screenshot15.PNG)
 
-3. Data Visualization:
+3. **Data Visualization**:
 To visualize the data, we created various plots and charts using libraries like Matplotlib and Seaborn. Our visualizations included:
 Box Plots: to explore data distributions and identify outliers.
 
